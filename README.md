@@ -12,4 +12,5 @@ A Technical Computer Science student at the Hogeschool Rotterdam
 (To do)
 - Maze generator
 - Matching Game
+- Raytracer
 - 
