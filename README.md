@@ -1,5 +1,5 @@
 # Hey, I am Pentaguin
-A Technical Computer Science student at the Hogeschool Rotterdam
+A computer engineering student at the Hogeschool Rotterdam
 
 ![Pentaguin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pentaguin&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pentaguin&langs_count=8&theme=dracula&show_icons=true)]
@@ -34,9 +34,17 @@ A Technical Computer Science student at the Hogeschool Rotterdam
 [![Color Climber](http://i3.ytimg.com/vi/VIi6WE_cLiE/hqdefault.jpg)](https://youtube.com/shorts/VIi6WE_cLiE "Click me")
 </details>
 
+<details>
+  <summary>Maze Generator</summary>
+  <p>
+    A program created in Unity that can generate random mazes using the Hunt and Kill Algorithm.
+  </p>
+
+[![Maze Generator](http://i3.ytimg.com/vi/oQAgYIVlvIg/hqdefault.jpg)](https://youtu.be/oQAgYIVlvIg "Click me")
+</details>
+
 - - - -
 (To do)
-- Maze generator
 - Matching Game
 - Raytracer
 
