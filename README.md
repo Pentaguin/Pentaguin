@@ -43,10 +43,7 @@ A computer engineering student at the Hogeschool Rotterdam
 [![Maze Generator](http://i3.ytimg.com/vi/oQAgYIVlvIg/hqdefault.jpg)](https://youtu.be/oQAgYIVlvIg "Click me")
 </details>
 
-- - - -
-(To do)
-- Matching Game
-- Raytracer
+
 
 
 
