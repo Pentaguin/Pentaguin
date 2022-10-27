@@ -43,7 +43,17 @@ A computer engineering student at the Hogeschool Rotterdam
 [![Maze Generator](http://i3.ytimg.com/vi/oQAgYIVlvIg/hqdefault.jpg)](https://youtu.be/oQAgYIVlvIg "Click me")
 </details>
 
-
+<details>
+  <summary>ATTiny84 Sensor Module</summary>
+  <p>
+   ATTiny84 microcontroller that can send the status from the PIR and the Reed sensor over Bluetooth Low Energy to another device that can receive BLE. For example ESP32.
+ It consists of an ATTiny84, jdy-10 BLE module, Reed sensor and PIR sensor.
+ It runs in power down mode to conserve energy comsuption and use Pin Change Interrupt to detect the sensor changes.
+ It is written using Platform IO in visual studio code.
+    
+ <image src="https://github.com/Pentaguin/ATTiny84SensorModules/blob/main/Sensormodules%20Breadboard.jpg" width="500" height="500">
+  </p>
+ </details>
 
 
 
