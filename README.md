@@ -55,5 +55,13 @@ A computer engineering student at the Hogeschool Rotterdam
   </p>
  </details>
 
+<details>
+  <summary>Mini planetarium</summary>
+  <p>
+    A GUI where the user can select stars. After selecting the stars, the program will calculate the coordinates from the selected stars using existing data which is stored in a csv file. The stars can then be viewed in the GUI view.
+    The coordinates will also be sent to a micro-controller. The micro-controller will then use the incoming data to control galvo motors and lasers to display the stars on a wall.
+  </p>
 
+[![Mini planetarium](http://i3.ytimg.com/vi/3Y5EeCz9S2g/hqdefault.jpg)](https://youtu.be/3Y5EeCz9S2g "Click me")
+</details>
 
