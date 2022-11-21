@@ -19,7 +19,7 @@ A computer engineering student at the Hogeschool Rotterdam
     A school project to create a banking system which consists of a GUI, database, receipt printer, money dispenser and an ATM
   </p>
   
-  [![ATM](https://i3.ytimg.com/vi/NCOkQA3wB08/hqdefault.jpg)](https://www.youtube.com/watch?v=NCOkQA3wB08 "Click me")
+  [![ATM](https://i3.ytimg.com/vi/NCOkQA3wB08/hqdefault.jpg)](https://www.youtube.com/watch?v=SyFBips7Tu0&ab_channel=HiuTungTai "Click me")
 </details>
 
 <details>
