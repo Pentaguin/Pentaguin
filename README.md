@@ -1,6 +1,3 @@
-# Hey, I am Pentaguin
-A computer engineering student at the Hogeschool Rotterdam
-
 # Projects 
 <details>
   <summary>Porcelain Tales</summary>
